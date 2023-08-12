@@ -1,1 +1,1 @@
-Trying new settings and 3d engine making in unity
+Trying new settings of AR develop
